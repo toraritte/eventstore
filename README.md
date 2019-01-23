@@ -1,3 +1,12 @@
+# TODO
+
+## 2019-01-23_1119
+
+https://dev.to/kspeakman/event-storage-in-postgres-4dk2
+https://dev.to/kspeakman/event-storage-in-postgres-multi-tenant-25hc
+
+-----------------
+
 # EventStore
 
 CQRS event store implemented in Elixir. Uses [PostgreSQL](http://www.postgresql.org/) as the underlying storage engine.
